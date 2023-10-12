@@ -1,5 +1,5 @@
 ## 项目介绍
-本项目是由`SpringBoot3+Vue3+MybatisPlus`等技术做的家具后台管理系统
+本项目是由`SpringBoot3+Vue3+MybatisPlus`等技术做的家具后台管理系统。前后端分离，`springboot_vue`为前端项目，`springboot_furn`为后端项目。
 ## 用到的技术栈
 ### 后端技术栈
 &emsp;1.SpringBoot<br/>
